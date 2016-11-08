@@ -1,6 +1,6 @@
 Chip8 Disassembler
 ==================
-A minimal disassembler in Haskell for (Chip8)[https://en.wikipedia.org/wiki/CHIP-8].
+A minimal disassembler in Haskell for [Chip8](https://en.wikipedia.org/wiki/CHIP-8)
 
 Credits
 =======
