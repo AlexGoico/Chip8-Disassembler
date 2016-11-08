@@ -4,5 +4,5 @@ A minimal disassembler in Haskell for [Chip8](https://en.wikipedia.org/wiki/CHIP
 
 Credits
 =======
-Small program I worked with https://github.com/MarkMcCaskey over
+Small program I worked with [Mark](https://github.com/MarkMcCaskey) over
 a summer.
